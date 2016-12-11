@@ -1,0 +1,19 @@
+{
+  "name": "fetchDataExample",
+  "version": "0.1.0",
+  "description": "fetch data from xml feed",
+  "main": "src/fetchData.js",
+  "author": "Blumanski",
+  "dependencies": {
+    "firebase": "^3.4.1",
+    "lodash": "^4.16.4",
+    "node-gcm": "^0.14.4",
+    "node-xmpp": "^1.0.4",
+    "npm": "^3.10.8",
+    "request": "^2.75.0",
+    "xml2json": "^0.10.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0"
+  }
+}
