@@ -11,7 +11,6 @@
 const Firebase = require('firebase');
 const request = require('request');
 const parser = require('xml2json');
-const _ = require('lodash');
 
 // firebase access config
 const config = {
